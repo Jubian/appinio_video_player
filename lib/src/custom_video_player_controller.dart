@@ -3,7 +3,7 @@ import 'package:appinio_video_player/src/fullscreen_video_player.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
-import 'package:cached_video_player/cached_video_player.dart';
+import 'package:cached_video_player_fork/cached_video_player.dart';
 import 'package:appinio_video_player/src/models/custom_video_player_settings.dart';
 
 /// The extension on the class is able to call private methods
